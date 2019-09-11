@@ -1,0 +1,13 @@
+name = "NLSolversObjectives"
+uuid = "7a701473-c41b-4618-8069-26e57e456370"
+authors = ["Patrick Kofod Mogensen <patrick.mogensen@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
